@@ -1,5 +1,4 @@
-# nbc
-SilVeR-Bot
+# SilVeR-Bot
 
 This Best BoT Of telegram,
 
